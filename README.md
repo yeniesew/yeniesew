@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Yeniesew Shiferaw
-  # A passionate full stack web developer from Ethiopia
+  ## A passionate full stack web developer from Ethiopia
 
 🔭 I’m currently working on web development
 
