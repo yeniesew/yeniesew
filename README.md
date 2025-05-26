@@ -8,5 +8,5 @@
 📫 How to reach me yebrielij@gmail.com
 
 📄 Know about my experiences https://yeneportfolio.netlify.app/
-###Connect with me:
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeniesew-shiferaw-795955243/)  
